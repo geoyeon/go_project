@@ -7,4 +7,4 @@ tcp_client_msgpack, tcp_server_msgpack	tcp with MsgPack msgPack 이용 메시지
 
 tcpserver,tcpclient	Simple Tcp Server 단순한 tcp 서버
 
-tcpclient_executor,tcpserver_executor,test_execute	Execute by Msg 함수 등록해서 msg값에 따라 실행 분기
+tcpclient_executor,tcpserver_executor,test_execute	Execute by Msg 함수 등록해서 msg값에 따라  실행 분기
